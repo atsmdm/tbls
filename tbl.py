@@ -6,7 +6,7 @@ import numpy as np
 import math
 
 #-----------------------------------------------
-#	learning github creating projects
+#	Learning github creating projects
 #-----------------------------------------------
 
 
