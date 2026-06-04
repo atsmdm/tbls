@@ -19,7 +19,7 @@
 # html
 
 #soffice.bin
-#convert ods to html
+#convert to html
 
 # dbs
 
