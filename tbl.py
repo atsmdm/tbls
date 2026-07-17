@@ -4,7 +4,7 @@
 #	python fedora linux
 #-----------------------------------------------
 
-# base api
+# core
 
 #import fastapi
 #from fastapi import FastAPI as ft
