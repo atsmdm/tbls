@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+
 #-----------------------------------------------
 #	python fedora linux
 #-----------------------------------------------
@@ -12,7 +13,6 @@
 #@app.get('/')
 #def fnc():
 #	return{'ft':'apis'}
-
 
 #from ooodev.calc import Calc
 
